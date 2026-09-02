@@ -1,6 +1,6 @@
 # Shreya Dave
 
-Physics undergraduate interested in **astrophysics, space instrumentation, and data-driven research**.
+Physics undergraduate working at the intersection of **astrophysics, space instrumentation, and data-driven research**.
 
 Currently pursuing an **Integrated M.Sc. in Physics at NIT Surat**, with research experience in
 **stellar astrophysics, space science, and scientific computing**.
